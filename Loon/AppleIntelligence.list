@@ -1,7 +1,14 @@
+# NAME: AppleIntelligence
+# AUTHOR: francgossin
+# REPO: https://github.com/francgossin/rules
+# UPDATED: 2025-11-17 13:34:27
+# DOMAIN: 2
+# GEOSITE: 1
+# DOMAIN-SUFFIX: 7
+# TOTAL: 10
 GEOSITE,openai
 DOMAIN,api.openai.com
 DOMAIN,chat.openai.com
-
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,siri.apple.com
